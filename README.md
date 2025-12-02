@@ -102,4 +102,4 @@ Contributions are welcome. Please open an issue or submit a pull request.
 
 ## Contact
 
-Maintainer: `mahfooz091` — update this section with email or other contact info if you want.
+Maintainer: `mahfooz091`.
